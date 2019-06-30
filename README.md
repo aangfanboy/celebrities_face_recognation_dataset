@@ -3,7 +3,7 @@ Face dataset for celebrities
 
 Dataset Link --> https://drive.google.com/open?id=1Fbgo_lrwD4IpVmgOn6S71qdQ5forQzZk
 
-105 different classes, all labeled.
+105 different classes, 17532 faces and all labeled.
 
 # Examples
 
